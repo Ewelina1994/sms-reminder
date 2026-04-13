@@ -1,0 +1,4 @@
+spring.application.name=sms-reminder-2
+twilio.account_sid=YOUR_TWILIO_ACCOUNT_SID
+twilio.auth_token=YOUR_TWILIO_AUTH_TOKEN
+twilio.phone_number=YOUR_TWILIO_PHONE_NUMBER
